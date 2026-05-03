@@ -1,7 +1,7 @@
 # 📱 Finza Mobile — Expo / React Native
 
 App de controle de gastos para iOS e Android.
-Dados salvos localmente via AsyncStorage (sem backend, sem internet necessária).
+
 
 ## 🚀 Como rodar
 
@@ -50,5 +50,3 @@ finza-mobile/
 
 ## 🎨 Design
 
-Tema dark inspirado em apps financeiros modernos.
-Cores: roxo (#7c6ff7) como accent, verde (#00c896) para receitas, vermelho (#ff5e6c) para despesas.
