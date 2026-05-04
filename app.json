@@ -22,11 +22,18 @@
     "android": {
       "package": "com.joao.finza",
       "versionCode": 1,
-
       "adaptiveIcon": {
         "foregroundImage": "./assets/image/icon.png",
         "backgroundColor": "#000000"
       }
-    }
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "4d7da4ca-fbf0-4c53-89d6-e8d694964549"
+      }
+    },
+
+    "owner": "joao12123"
   }
 }
