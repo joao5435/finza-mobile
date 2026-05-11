@@ -48,5 +48,4 @@ finza-mobile/
 - ✅ Feedback tátil (haptics) no iOS
 - ✅ Tema dark moderno e responsivo
 
-## 🎨 Design
 
